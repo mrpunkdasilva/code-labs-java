@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week-001/laboratory-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week-002/exercise-rock-chess" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week-002/handling-exceptions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week-002/musical-instruments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week-002/polymorphisms-classification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week-002/relations-of-association-aggregation-and-composition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week-002/shop-online" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ExerciseGameXadrez (3)" />
+        <module name="activity-1 (2)" />
+        <module name="ExerciseGameXadrez (2)" />
+        <module name="activity-1 (1)" />
+        <module name="ExerciseGameXadrez (1)" />
+        <module name="generic-matriz" />
+        <module name="list-implementation" />
+        <module name="exercise-rock-chess" />
+        <module name="alphabet-soup" />
+        <module name="ExerciseGameXadrez" />
+        <module name="polymorphisms-classification" />
+        <module name="activity-1" />
+        <module name="contact-list" />
+        <module name="handling-exceptions" />
+        <module name="shop-online" />
+        <module name="activity-2" />
+        <module name="adts-to-molecules" />
+        <module name="musical-instruments" />
+        <module name="space-ship" />
+        <module name="exercise-rock-chess (1)" />
+        <module name="exercise-rock-chess (2)" />
+        <module name="activity-2 (2)" />
+        <module name="activity-2 (1)" />
+        <module name="laboratory-1" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

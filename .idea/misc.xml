@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/week-001/laboratory-1/pom.xml" />
+        <option value="$PROJECT_DIR$/week-002/shop-online/pom.xml" />
+        <option value="$PROJECT_DIR$/week-002/exercise-rock-chess/pom.xml" />
+        <option value="$PROJECT_DIR$/week-002/handling-exceptions/pom.xml" />
+        <option value="$PROJECT_DIR$/week-002/musical-instruments/pom.xml" />
+        <option value="$PROJECT_DIR$/week-002/polymorphisms-classification/pom.xml" />
+        <option value="$PROJECT_DIR$/week-002/relations-of-association-aggregation-and-composition/pom.xml" />
+        <option value="$PROJECT_DIR$/week-003/space-ship/pom.xml" />
+        <option value="$PROJECT_DIR$/week-003/examples-enums/pom.xml" />
+        <option value="$PROJECT_DIR$/week-003/abstracts-classes/pom.xml" />
+        <option value="$PROJECT_DIR$/week-003/multiple-inheritance/pom.xml" />
+        <option value="$PROJECT_DIR$/week-004/contact-list/pom.xml" />
+        <option value="$PROJECT_DIR$/week-004/alphabet-soup/pom.xml" />
+        <option value="$PROJECT_DIR$/week-004/generic-matriz/pom.xml" />
+        <option value="$PROJECT_DIR$/week-004/list-implementation/pom.xml" />
+        <option value="$PROJECT_DIR$/week-005/activity-2/pom.xml" />
+        <option value="$PROJECT_DIR$/week-005/adts-applied-to-computational-solutions-involving-molecules/pom.xml" />
+        <option value="$PROJECT_DIR$/week-006/contact-list/pom.xml" />
+        <option value="$PROJECT_DIR$/week-006/brazilian-age-average/pom.xml" />
+        <option value="$PROJECT_DIR$/week-007/activity-1/pom.xml" />
+        <option value="$PROJECT_DIR$/week-007/activity-11/pom.xml" />
+        <option value="$PROJECT_DIR$/week-008/activity-1/pom.xml" />
+        <option value="$PROJECT_DIR$/week-008/activity-2/pom.xml" />
+        <option value="$PROJECT_DIR$/week-009/activity-1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_24" default="true" project-jdk-name="openjdk-24" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
