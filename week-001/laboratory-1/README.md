@@ -133,12 +133,12 @@ A solução está em `QuadrantSelection.java`. O código usa uma série de `if-e
 graph TD
     A[Start] --> B{Ler x, y};
     B --> C{x > 0 e y > 0?};
-    C -- Sim --> D[Imprimir "Quadrante 2"];
+    C -- Sim --> D[Quadrante 2];
     C -- Não --> E{x < 0 e y > 0?};
-    E -- Sim --> F[Imprimir "Quadrante 1"];
+    E -- Sim --> F[Quadrante 1];
     E -- Não --> G{x < 0 e y < 0?};
-    G -- Sim --> H[Imprimir "Quadrante 3"];
-    G -- Não --> I[Imprimir "Quadrante 4"];
+    G -- Sim --> H[Quadrante 3];
+    G -- Não --> I[Quadrante 4];
     D --> J[Fim];
     F --> J[Fim];
     H --> J[Fim];
